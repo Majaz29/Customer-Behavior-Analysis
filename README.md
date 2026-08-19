@@ -1,9 +1,6 @@
 # Customer-Behavior-Analysis
 Data Analytics Project Showcasing Customer Behavior Analysis using Python ,SQL, Power BI.
 
-
-# Data Analytics Project
-
 ## Overview
 This project demonstrates an end-to-end data analytics workflow, starting from data collection and preparation to analysis and business reporting.
 
