@@ -114,11 +114,5 @@ Key outcomes:
 - Created data-driven recommendations.
 - Converted raw data into meaningful visual insights.
 
----
 
-## How to Run This Project
 
-### Step 1: Clone the Repository
-
-```bash
-git clone [repository-link]
